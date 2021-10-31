@@ -1,0 +1,2 @@
+# AICompetition
+Competition AI
